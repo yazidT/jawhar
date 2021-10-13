@@ -152,7 +152,12 @@ if(isset($_GET['lang']))
                         </div>
                     </div>
                 </div>
-                <div class="row edu-row accord">
+            </div>
+        </section>
+
+		<section class="section-padding section-1-bg work-section" id="header">
+            <div class="container">
+				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
                         <a href="revues/04_2021/cover_xl_04_2021.jpg" target="_blank"> <img src="revues/04_2021/cover_sm_04_2021.jpg" alt="Cover april 2021" class="img-responsive" /> </a>
                     </div>
