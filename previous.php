@@ -70,27 +70,6 @@ if(isset($_GET['lang']))
                             </ul>
                         </div>
                     </div>
-
-                    <!-- 
-                        choisir la langue
-                        <div class="navbar-right nav nav11-right black-nav-right">							
-						<ul class="content-ul footer-icon text-center">
-			
-							<li>
-								<a href="?lang=ar">						
-                                    <div class="langue"><img class="flag" src="https://www.countryflags.io/TN/flat/64.png"></div>
-                                </a>
-							</li>
-							<li>
-								<a href="?lang=fr">						
-                                    <div class="langue"><img class="flag" src="https://www.countryflags.io/FR/flat/64.png"></div>
-                                </a>
-							</li>
-						</ul>
-					</div>						 
-                        -->
-
-                    <!-- /.navbar-collapse -->
                 </div>
             </nav>
         </header>
@@ -100,11 +79,38 @@ if(isset($_GET['lang']))
         <!--================================= EDUCATION START ==========================================-->
 
         <section class="section-padding section-1-bg work-section" id="header">
-            <!-- ::::::::::::::::                  Octobre 2020              :::::::::::::::::::: -->
+            <!-- ::::::::::::::::                  January 2022              :::::::::::::::::::: -->
 
             <div class="container">
                 <div class="heading-dark text-center">
                     <h2>آخر عدد صدر عن المجلة</h2>
+                </div>
+                <div class="row edu-row accord">
+                    <div class="col-sm-4 work-col">
+                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" /> </a>
+                    </div>
+                    <div class="col-sm-8 edu-col edu-col-1">
+                        <div class="edu-div edu-div-1 edu-div-2">
+                            <div class="edu-title accord-title">
+                                <div class="edu-heading">
+                                    <h5>
+                                        تاريخ الإصدار - جانفي 2022
+
+                                        <span class="year"> </span>
+                                    </h5>
+                                    <p lang="en"><a href="revues/01_2022/AR_FR_01_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-padding section-1-bg work-section" id="header">
+            <div class="container">
+                <div class="heading-dark text-center">
+                    <h2>الأعداد السابقة</h2>
                 </div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
@@ -130,9 +136,6 @@ if(isset($_GET['lang']))
 
         <section class="section-padding section-1-bg work-section" id="header">
             <div class="container">
-                <div class="heading-dark text-center">
-                    <h2>الأعداد السابقة</h2>
-                </div>
 				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
                         <a href="revues/07_2021/cover_xl_07_2021.jpg" target="_blank"> <img src="revues/07_2021/cover_sm_07_2021.jpg" alt="Cover julay 2021" class="img-responsive" /> </a>

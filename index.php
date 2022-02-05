@@ -73,26 +73,7 @@
                         </div>
                     </div>
 
-                    <!-- 
-                        choisir la langue
-                        <div class="navbar-right nav nav11-right black-nav-right">							
-						<ul class="content-ul footer-icon text-center">
-			
-							<li>
-								<a href="?lang=ar">						
-                                    <div class="langue"><img class="flag" src="https://www.countryflags.io/TN/flat/64.png"></div>
-                                </a>
-							</li>
-							<li>
-								<a href="?lang=fr">						
-                                    <div class="langue"><img class="flag" src="https://www.countryflags.io/FR/flat/64.png"></div>
-                                </a>
-							</li>
-						</ul>
-					</div>						 
-                        -->
 
-                    <!-- /.navbar-collapse -->
                 </div>
             </nav>
         </header>
@@ -108,18 +89,18 @@
                 </div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank"> <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover Octobre 2021" class="img-responsive" /> </a>
+                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover Javuary 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
                             <div class="edu-title accord-title">
                                 <div class="edu-heading">
                                     <h5>
-                                        تاريخ الإصدار - أكتوبر 2021
+                                        تاريخ الإصدار - جانفي 2022
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/10_2021/AR_FR_10_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/01_2022/AR_FR_01_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -186,14 +167,25 @@
                         <a href="previous.php" class="btn btn-success arbtn"> إضغط هنا </a>
                     </div>
                     <div class="col-sm-12 col-md-8 gallery-col">
+
+                        <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                            <div class="gallery-image">
+                                <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank">
+                                    <div class="gallery-inner">
+                                        <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" />
+                                        <div class="gallery-caption">
+                                            <i class="fa fa-search" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
 						<div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                             <div class="gallery-image">
                                 <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank">
                                     <div class="gallery-inner">
                                         <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover Octobre 2021" class="img-responsive" />
-
-                                        <!-- <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank" > <img src="revues/01_2021/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" />	</a>							 -->
-
                                         <div class="gallery-caption">
                                             <i class="fa fa-search" aria-hidden="true"></i>
                                         </div>
@@ -201,14 +193,12 @@
                                 </a>
                             </div>
                         </div>
+
 						<div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                             <div class="gallery-image">
                                 <a href="revues/07_2021/cover_xl_07_2021.jpg" target="_blank">
                                     <div class="gallery-inner">
                                         <img src="revues/07_2021/cover_sm_07_2021.jpg" alt="Cover jully 2021" class="img-responsive" />
-
-                                        <!-- <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank" > <img src="revues/01_2021/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" />	</a>							 -->
-
                                         <div class="gallery-caption">
                                             <i class="fa fa-search" aria-hidden="true"></i>
                                         </div>
@@ -216,14 +206,15 @@
                                 </a>
                             </div>
                         </div>
+
+                    </div>
+                    <div class="col-sm-12 col-md-8 gallery-col">
+
                         <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                             <div class="gallery-image">
                                 <a href="revues/04_2021/cover_xl_04_2021.jpg" target="_blank">
                                     <div class="gallery-inner">
                                         <img src="revues/04_2021/cover_sm_04_2021.jpg" alt="Cover April 2021" class="img-responsive" />
-
-                                        <!-- <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank" > <img src="revues/01_2021/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" />	</a>							 -->
-
                                         <div class="gallery-caption">
                                             <i class="fa fa-search" aria-hidden="true"></i>
                                         </div>
@@ -231,14 +222,12 @@
                                 </a>
                             </div>
                         </div>
+
                         <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                             <div class="gallery-image">
                                 <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank">
                                     <div class="gallery-inner">
                                         <img src="revues/12_2020/cover_sm_12_2020.jpg" alt="Cover Dec 2020" class="img-responsive" />
-
-                                        <!-- <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank" > <img src="revues/01_2021/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" />	</a>							 -->
-
                                         <div class="gallery-caption">
                                             <i class="fa fa-search" aria-hidden="true"></i>
                                         </div>
@@ -251,7 +240,6 @@
                             <a href="revues/10_2020/cover_xl_10_2020.jpg" target="_blank">
                                 <div class="gallery-inner">
                                     <img src="revues/10_2020/cover_sm_10_2020.jpg" alt="Cover Oct 2020" class="img-responsive" />
-
                                     <div class="gallery-caption">
                                         <i class="fa fa-search" aria-hidden="true"></i>
                                     </div>
@@ -259,49 +247,7 @@
                             </a>
                         </div>
 
-                        <!-- 
-						<div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-
-						    <a href="revues/05_2020/cover_xl_05_2020.jpg" target="_blank" >
-								<div class="gallery-inner">
-								<img src="revues/05_2020/cover_sm_05_2020.jpg" alt="Cover Mai 2020" class="img-responsive" />	
-									<div class="gallery-caption">
-										<i class="fa fa-search" aria-hidden="true"></i>				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-2-space">
-							<a href="images/black-white/375x375x4.jpg" title="Gallery">
-								<div class="gallery-inner">
-									<img src="images/black-white/375x375x4.jpg" alt="375x375x4" class="img-responsive" />
-									<div class="gallery-caption">
-										<i class="fa fa-search" aria-hidden="true"></i>				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-sm-4 col-xs-6 gallery15-1-col">
-							<a href="images/black-white/375x375x5.jpg" title="Gallery">
-								<div class="gallery-inner">
-									<img src="images/black-white/375x375x5.jpg" alt="375x375x5" class="img-responsive" />
-									<div class="gallery-caption">
-										<i class="fa fa-search" aria-hidden="true"></i>				
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="col-sm-4 col-xs-6 gallery15-1-col">
-							<a href="images/black-white/375x375x6.jpg" title="Gallery">
-								<div class="gallery-inner">
-									<img src="images/black-white/375x375x6.jpg" alt="375x375x6" class="img-responsive" />
-									<div class="gallery-caption">
-										<i class="fa fa-search" aria-hidden="true"></i>				
-									</div>
-								</div>
-							</a>
-						</div> -->
-                    </div>
+                        </div>
                 </div>
             </div>
         </div>
