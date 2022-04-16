@@ -87,7 +87,37 @@ if(isset($_GET['lang']))
                 </div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" /> </a>
+                        <a href="revues/03_2022/cover_xl_03_2022.jpg" target="_blank"> <img src="revues/03_2022/cover_sm_03_2022.jpg" alt="Cover Marsh 2022" class="img-responsive" /> </a>
+                    </div>
+                    <div class="col-sm-8 edu-col edu-col-1">
+                        <div class="edu-div edu-div-1 edu-div-2">
+                            <div class="edu-title accord-title">
+                                <div class="edu-heading">
+                                    <h5>
+                                        تاريخ الإصدار - مارس 2022
+
+                                        <span class="year"> </span>
+                                    </h5>
+                                    <p lang="en"><a href="revues/03_2022/AR_FR_03_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+        <section class="section-padding section-1-bg work-section" id="header">
+            <div class="container">
+                <div class="heading-dark text-center">
+                    <h2>الأعداد السابقة</h2>
+                </div>
+                <div class="row edu-row accord">
+                    <div class="col-sm-4 work-col">
+                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -109,12 +139,9 @@ if(isset($_GET['lang']))
 
         <section class="section-padding section-1-bg work-section" id="header">
             <div class="container">
-                <div class="heading-dark text-center">
-                    <h2>الأعداد السابقة</h2>
-                </div>
-                <div class="row edu-row accord">
+				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank"> <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover julay 2021" class="img-responsive" /> </a>
+                        <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank"> <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover October 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
