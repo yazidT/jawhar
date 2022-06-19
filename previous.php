@@ -87,7 +87,34 @@ if(isset($_GET['lang']))
                 </div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/03_2022/cover_xl_03_2022.jpg" target="_blank"> <img src="revues/03_2022/cover_sm_03_2022.jpg" alt="Cover Marsh 2022" class="img-responsive" /> </a>
+                        <a href="revues/2022_05/cover_xl_05_2022.png" target="_blank"> <img src="revues/2022_05/cover_sm_05_2022.png" alt="Cover Mai 2022" class="img-responsive" /> </a>
+                    </div>
+                    <div class="col-sm-8 edu-col edu-col-1">
+                        <div class="edu-div edu-div-1 edu-div-2">
+                            <div class="edu-title accord-title">
+                                <div class="edu-heading">
+                                    <h5>
+                                        تاريخ الإصدار - ماي 2022
+
+                                        <span class="year"> </span>
+                                    </h5>
+                                    <p lang="en"><a href="revues/2022_05/AR_FR_05_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-padding section-1-bg work-section" id="header">
+            <div class="container">
+                <div class="heading-dark text-center">
+                    <h2>الأعداد السابقة</h2>
+                </div>
+                <div class="row edu-row accord">
+                    <div class="col-sm-4 work-col">
+                        <a href="revues/2022_03/cover_xl_03_2022.jpg" target="_blank"> <img src="revues/2022_03/cover_sm_03_2022.jpg" alt="Cover March 2022" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -98,7 +125,7 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/03_2022/AR_FR_03_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/2022_03/AR_FR_03_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -107,17 +134,11 @@ if(isset($_GET['lang']))
             </div>
         </section>
 
-
-
-
         <section class="section-padding section-1-bg work-section" id="header">
             <div class="container">
-                <div class="heading-dark text-center">
-                    <h2>الأعداد السابقة</h2>
-                </div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2021" class="img-responsive" /> </a>
+                        <a href="revues/2022_01/cover_xl_01_2022.jpg" target="_blank"> <img src="revues/2022_01/cover_sm_01_2022.jpg" alt="Cover March 2022" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -128,7 +149,7 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/01_2022/AR_FR_01_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/2022_01/AR_FR_01_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -141,7 +162,7 @@ if(isset($_GET['lang']))
             <div class="container">
 				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank"> <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover October 2021" class="img-responsive" /> </a>
+                        <a href="revues/2021_10/cover_xl_10_2021.png" target="_blank"> <img src="revues/2021_10/cover_sm_10_2021.png" alt="Cover October 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -152,7 +173,7 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/10_2021/AR_FR_10_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/2021_10/AR_FR_10_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -165,7 +186,7 @@ if(isset($_GET['lang']))
             <div class="container">
 				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/07_2021/cover_xl_07_2021.jpg" target="_blank"> <img src="revues/07_2021/cover_sm_07_2021.jpg" alt="Cover julay 2021" class="img-responsive" /> </a>
+                        <a href="revues/2021_07/cover_xl_07_2021.jpg" target="_blank"> <img src="revues/2021_07/cover_sm_07_2021.jpg" alt="Cover julay 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -176,7 +197,7 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/07_2021/AR_FR_07_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/2021_07/AR_FR_07_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -189,7 +210,7 @@ if(isset($_GET['lang']))
             <div class="container">
 				<div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/04_2021/cover_xl_04_2021.jpg" target="_blank"> <img src="revues/04_2021/cover_sm_04_2021.jpg" alt="Cover april 2021" class="img-responsive" /> </a>
+                        <a href="revues/2021_04/cover_xl_04_2021.jpg" target="_blank"> <img src="revues/2021_04/cover_sm_04_2021.jpg" alt="Cover april 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -200,7 +221,7 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/04_2021/AR_FR_04_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                                    <p lang="en"><a href="revues/2021_04/AR_FR_04_2021.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                                 </div>
                             </div>
                         </div>
@@ -213,7 +234,7 @@ if(isset($_GET['lang']))
             <div class="container">
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank"> <img src="revues/12_2020/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
+                        <a href="revues/2020_12/cover_xl_12_2020.jpg" target="_blank"> <img src="revues/2020_12/cover_sm_12_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -224,8 +245,8 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/12_2020/Arabe_12_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
-                                    <p lang="en"><a href="revues/12_2020/Francais_12_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
+                                    <p lang="en"><a href="revues/2020_12/Arabe_12_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
+                                    <p lang="en"><a href="revues/2020_12/Francais_12_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
                                 </div>
                             </div>
                         </div>
@@ -238,7 +259,7 @@ if(isset($_GET['lang']))
             <div class="container">
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/10_2020/cover_xl_10_2020.jpg" target="_blank"> <img src="revues/10_2020/cover_sm_10_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
+                        <a href="revues/2020_10/cover_xl_10_2020.jpg" target="_blank"> <img src="revues/2020_10/cover_sm_10_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -249,8 +270,8 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/10_2020/Arabe_10_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
-                                    <p lang="en"><a href="revues/10_2020/Francais_10_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
+                                    <p lang="en"><a href="revues/2020_10/Arabe_10_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
+                                    <p lang="en"><a href="revues/2020_10/Francais_10_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
                                 </div>
                             </div>
                         </div>
@@ -265,7 +286,7 @@ if(isset($_GET['lang']))
                 <div class="heading-dark text-center"></div>
                 <div class="row edu-row accord">
                     <div class="col-sm-4 work-col">
-                        <a href="revues/05_2020/cover_xl_05_2020.jpg" target="_blank"> <img src="revues/05_2020/cover_sm_05_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
+                        <a href="revues/2020_05/cover_xl_05_2020.jpg" target="_blank"> <img src="revues/2020_05/cover_sm_05_2020.jpg" alt="Cover jan 2021" class="img-responsive" /> </a>
                     </div>
                     <div class="col-sm-8 edu-col edu-col-1">
                         <div class="edu-div edu-div-1 edu-div-2">
@@ -276,8 +297,8 @@ if(isset($_GET['lang']))
 
                                         <span class="year"> </span>
                                     </h5>
-                                    <p lang="en"><a href="revues/05_2020/Arabe_05_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
-                                    <p lang="en"><a href="revues/05_2020/Francais_05_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
+                                    <p lang="en"><a href="revues/2020_05/Arabe_05_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالعربية</p>
+                                    <p lang="en"><a href="revues/2020_05/Francais_05_2020.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل بالفرنسية</p>
                                 </div>
                             </div>
                         </div>

@@ -81,17 +81,17 @@
             </div>
             <div class="row edu-row accord">
                <div class="col-sm-4 work-col">
-                  <a href="revues/03_2022/cover_xl_03_2022.jpg" target="_blank"> <img src="revues/03_2022/cover_sm_03_2022.jpg" alt="Cover marsh 2022" class="img-responsive" /> </a>
+                  <a href="revues/2022_05/cover_xl_05_2022.png" target="_blank"> <img src="revues/2022_05/cover_sm_05_2022.png" alt="Cover marsh 2022" class="img-responsive" /> </a>
                </div>
                <div class="col-sm-8 edu-col edu-col-1">
                   <div class="edu-div edu-div-1 edu-div-2">
                      <div class="edu-title accord-title">
                         <div class="edu-heading">
                            <h5>
-                              تاريخ الإصدار - مارس 2022
+                              تاريخ الإصدار - ماي 2022
                               <span class="year"> </span>
                            </h5>
-                           <p lang="en"><a href="revues/03_2022/AR_FR_03_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                           <p lang="en"><a href="revues/2022_05/AR_FR_05_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                         </div>
                      </div>
                   </div>
@@ -152,11 +152,12 @@
                   <a href="previous.php" class="btn btn-success arbtn"> إضغط هنا </a>
                </div>
                <div class="col-sm-12 col-md-8 gallery-col">
+
                   <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                      <div class="gallery-image">
-                        <a href="revues/03_2022/cover_xl_03_2022.jpg" target="_blank">
+                        <a href="revues/2022_03/cover_xl_03_2022.jpg" target="_blank">
                            <div class="gallery-inner">
-                              <img src="revues/03_2022/cover_sm_03_2022.jpg" alt="Cover marsh 2022" class="img-responsive" />
+                              <img src="revues/2022_03/cover_sm_03_2022.jpg" alt="Cover marsh 2022" class="img-responsive" />
                               <div class="gallery-caption">
                                  <i class="fa fa-search" aria-hidden="true"></i>
                               </div>
@@ -167,9 +168,9 @@
 
                   <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                      <div class="gallery-image">
-                        <a href="revues/01_2022/cover_xl_01_2022.jpg" target="_blank">
+                        <a href="revues/2022_01/cover_xl_01_2022.jpg" target="_blank">
                            <div class="gallery-inner">
-                              <img src="revues/01_2022/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" />
+                              <img src="revues/2022_01/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" />
                               <div class="gallery-caption">
                                  <i class="fa fa-search" aria-hidden="true"></i>
                               </div>
@@ -180,9 +181,9 @@
 
                   <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                      <div class="gallery-image">
-                        <a href="revues/10_2021/cover_xl_10_2021.png" target="_blank">
+                        <a href="revues/2021_10/cover_xl_10_2021.png" target="_blank">
                            <div class="gallery-inner">
-                              <img src="revues/10_2021/cover_sm_10_2021.png" alt="Cover Octobre 2021" class="img-responsive" />
+                              <img src="revues/2021_10/cover_sm_10_2021.png" alt="Cover Octobre 2021" class="img-responsive" />
                               <div class="gallery-caption">
                                  <i class="fa fa-search" aria-hidden="true"></i>
                               </div>
@@ -190,13 +191,14 @@
                         </a>
                      </div>
                   </div>
-                </div>  
+                </div>
+
                 <div class="col-sm-12 col-md-8 gallery-col">
                   <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                      <div class="gallery-image">
-                        <a href="revues/07_2021/cover_xl_07_2021.jpg" target="_blank">
+                        <a href="revues/2021_07/cover_xl_07_2021.jpg" target="_blank">
                            <div class="gallery-inner">
-                              <img src="revues/07_2021/cover_sm_07_2021.jpg" alt="Cover jully 2021" class="img-responsive" />
+                              <img src="revues/2021_07/cover_sm_07_2021.jpg" alt="Cover jully 2021" class="img-responsive" />
                               <div class="gallery-caption">
                                  <i class="fa fa-search" aria-hidden="true"></i>
                               </div>
@@ -204,11 +206,12 @@
                         </a>
                      </div>
                   </div>
+
                   <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
                      <div class="gallery-image">
-                        <a href="revues/04_2021/cover_xl_04_2021.jpg" target="_blank">
+                        <a href="revues/2021_04/cover_xl_04_2021.jpg" target="_blank">
                            <div class="gallery-inner">
-                              <img src="revues/04_2021/cover_sm_04_2021.jpg" alt="Cover April 2021" class="img-responsive" />
+                              <img src="revues/2021_04/cover_sm_04_2021.jpg" alt="Cover April 2021" class="img-responsive" />
                               <div class="gallery-caption">
                                  <i class="fa fa-search" aria-hidden="true"></i>
                               </div>
@@ -216,18 +219,7 @@
                         </a>
                      </div>
                   </div>
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/12_2020/cover_xl_12_2020.jpg" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/12_2020/cover_sm_12_2020.jpg" alt="Cover Dec 2020" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
+
                 </div>  
 
             </div>
@@ -240,32 +232,27 @@
             <div class="bw-form">
                <div class="row">
                   <div class="col-sm-8">
-                     <div class="heading-dark">
+                     <div class="heading-dark text-right">
                         <h2>للإتصال بنا</h2>
-                        <p class="border-heading-white"></p>
                      </div>
                      <div class="footer12-col text-center">
                         <div class="text-right">
                            <ul class="content-ul content-display-tc footer12-address">
-                              <li><img src="images/black-white/32x32x5.png" alt="32x32x5" /></li>
                               <li>
                                  <p class="content-spacing">العنوان 28 نهج جمال عبد الناصر تونس 100</p>
                               </li>
                            </ul>
                            <ul class="content-ul content-display-tc footer12-address footer12-address-1">
-                              <li><img src="images/black-white/32x32x6.png" alt="32x32x6" /></li>
                               <li>
                                  <p class="content-spacing"><a href="#">الهاتف: 216.71.327.130</a></p>
                               </li>
                            </ul>
                            <ul class="content-ul content-display-tc footer12-address footer12-address-1">
-                              <li><img src="images/black-white/32x32x6.png" alt="32x32x6" /></li>
                               <li>
                                  <p class="content-spacing"><a href="#">الفاكس: 216.71.432.233</a></p>
                               </li>
                            </ul>
                            <ul class="content-ul content-display-tc footer12-address">
-                              <li><img src="images/black-white/32x32x7.png" alt="32x32x7" /></li>
                               <li>
                                  <p class="content-spacing">البريد الالكتروني: mestaoui.s@gnet.tn</p>
                               </li>
@@ -275,23 +262,6 @@
                      <div class="separator"></div>
                   </div>
                   <div class="col-sm-4 contact-me">
-                     <!--   FORMULAIRE DE CONTACT 
-                        <form class="form3" method="post" id="contact-form">
-                        	<h3 class="text-center">Get in Touch</h3>
-                        	<div class="header6-border"></div>
-                        	<div class="form3-div">								
-                        		<input class="form3-input" type="text" name="name"  value=""  placeholder="Please Enter Name" required autocomplete="off">
-                        	</div>
-                        	<div class="form3-div">								
-                        		<input class="form3-input" type="email" name="email" value=""  placeholder="Please Enter Email" required autocomplete="off">
-                        	</div>
-                        	<div class="form3-div">							
-                        		<textarea class="form3-message" name="message" cols="40" rows="5" placeholder="Please Enter Messaage" required autocomplete="off"></textarea>
-                        	</div>
-                        	<div class="form3-btn bw-form-btn text-center">
-                        		<button type="submit" class="btn btn-black-1 submit content-spacing content-uppercase content-bold" name="subscribe">Submit Now</button>
-                        	</div>
-                        </form>   -->
                      <div id="messageDiv"><span id="sucessMessage"> </span> <span id="failMessage"> </span></div>
                   </div>
                </div>
