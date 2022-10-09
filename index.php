@@ -81,17 +81,17 @@
             </div>
             <div class="row edu-row accord">
                <div class="col-sm-4 work-col">
-                  <a href="revues/2022_05/cover_xl_05_2022.png" target="_blank"> <img src="revues/2022_05/cover_sm_05_2022.png" alt="Cover marsh 2022" class="img-responsive" /> </a>
+                  <a href="revues/2022_09/cover_xl_09_2022.png" target="_blank"> <img src="revues/2022_09/cover_sm_09_2022.png" alt="Cover sept 2022" class="img-responsive" /> </a>
                </div>
                <div class="col-sm-8 edu-col edu-col-1">
                   <div class="edu-div edu-div-1 edu-div-2">
                      <div class="edu-title accord-title">
                         <div class="edu-heading">
                            <h5>
-                              تاريخ الإصدار - ماي 2022
+                              تاريخ الإصدار - سبتمبر 2022
                               <span class="year"> </span>
                            </h5>
-                           <p lang="en"><a href="revues/2022_05/AR_FR_05_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
+                           <p lang="en"><a href="revues/2022_09/AR_FR_09_2022.pdf" target="_blank" class="btn btn-success arbtn"> إضغط هنا </a> للتحميل</p>
                         </div>
                      </div>
                   </div>
@@ -152,76 +152,93 @@
                   <a href="previous.php" class="btn btn-success arbtn"> إضغط هنا </a>
                </div>
                <div class="col-sm-12 col-md-8 gallery-col">
+                  
+                  <div class="col-md-12">
 
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/2022_03/cover_xl_03_2022.jpg" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/2022_03/cover_sm_03_2022.jpg" alt="Cover marsh 2022" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2022_05/cover_xl_05_2022.png" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2022_05/cover_sm_05_2022.png" alt="Cover mai 2022" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
                               </div>
-                           </div>
-                        </a>
+                           </a>
+                        </div>
                      </div>
+
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2022_03/cover_xl_03_2022.jpg" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2022_03/cover_sm_03_2022.jpg" alt="Cover marsh 2022" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2022_01/cover_xl_01_2022.jpg" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2022_01/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+
+                  </div>
+                  <div class="col-md-12">
+
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2021_10/cover_xl_10_2021.png" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2021_10/cover_sm_10_2021.png" alt="Cover oct 2021" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2021_07/cover_xl_07_2021.jpg" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2021_07/cover_sm_07_2021.jpg" alt="Cover jully 2021" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+
+                     <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
+                        <div class="gallery-image">
+                           <a href="revues/2022_04/cover_xl_04_2021.jpg" target="_blank">
+                              <div class="gallery-inner">
+                                 <img src="revues/2021_04/cover_sm_04_2021.jpg" alt="Cover April 202" class="img-responsive" />
+                                 <div class="gallery-caption">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                     
                   </div>
 
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/2022_01/cover_xl_01_2022.jpg" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/2022_01/cover_sm_01_2022.jpg" alt="Cover January 2022" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/2021_10/cover_xl_10_2021.png" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/2021_10/cover_sm_10_2021.png" alt="Cover Octobre 2021" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-                </div>
-
-                <div class="col-sm-12 col-md-8 gallery-col">
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/2021_07/cover_xl_07_2021.jpg" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/2021_07/cover_sm_07_2021.jpg" alt="Cover jully 2021" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-
-                  <div class="col-sm-4 col-xs-6 gallery15-1-col gallery15-1-space">
-                     <div class="gallery-image">
-                        <a href="revues/2021_04/cover_xl_04_2021.jpg" target="_blank">
-                           <div class="gallery-inner">
-                              <img src="revues/2021_04/cover_sm_04_2021.jpg" alt="Cover April 2021" class="img-responsive" />
-                              <div class="gallery-caption">
-                                 <i class="fa fa-search" aria-hidden="true"></i>
-                              </div>
-                           </div>
-                        </a>
-                     </div>
-                  </div>
-
-                </div>  
-
+               </div>  
             </div>
          </div>
       </div>
